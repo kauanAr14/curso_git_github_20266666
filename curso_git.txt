@@ -1,2 +1,4 @@
 ls listra oque existe dentro do diretório
 cd mda de diretório
+cat exibe conteúdo do arquivo
+rm remove arquivo ou diretório
