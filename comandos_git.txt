@@ -2,3 +2,4 @@ git init . cria um rpepo git na pasta atual git status mostra o status do trabal
 adiciona arquivo para ser comitado
 
 git commit -m "msg" faz commit do que estava para ser commitado
+git log mostra todo o historio de commit
