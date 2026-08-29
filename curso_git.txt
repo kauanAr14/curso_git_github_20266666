@@ -1,0 +1,2 @@
+ls listra oque existe dentro do diretório
+cd mda de diretório
