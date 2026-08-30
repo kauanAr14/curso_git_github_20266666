@@ -1,2 +1,4 @@
 esse arquivo contem informações adcionais para git
 aaaaa segundo comando
+ciomando mais genéricos
+comando mais estranhos
