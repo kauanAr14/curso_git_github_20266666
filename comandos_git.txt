@@ -14,4 +14,8 @@ git log mostra todo o historio de commit
 6. git status
 7. git commit -m "mensagem"
 8. git status
-9. volta a passo 3
+9. volta a passo 3.
+aaaa
+aaa
+aaaaa
+aaa
