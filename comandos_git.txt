@@ -1,8 +1,8 @@
-git init . cria um rpepo git na pasta atual git status mostra o status do trabalho (de cada arquivo git add nome_arquivo 
-adiciona arquivo para ser comitado
+git init . >cria um rpepo git na pasta atual git status >mostra o status do trabalho (de cada arquivo
+git add nome_arquivo > adiciona arquivo para ser comitado
 
-git commit -m "msg" faz commit do que estava para ser commitado
-git log mostra todo o historio de commit
+git commit -m "msg" >  faz commit do que estava para ser commitado
+git log > mostra todo o historio de commit
 
 
 ##fluxo de trabalho
@@ -19,3 +19,6 @@ aaaa
 aaa
 aaaaa
 aaa
+
+
+bbbbbbb
